@@ -1,0 +1,14 @@
+flirt-out-15_15_std.nii.gz filter=lfs diff=lfs merge=lfs -text
+flirt-out-p15_15_sigdig.nii.gz filter=lfs diff=lfs merge=lfs -text
+flirt_input_image.nii.gz filter=lfs diff=lfs merge=lfs -text
+fuzzy_fast_15.nii.gz filter=lfs diff=lfs merge=lfs -text
+Input_3T_T1w_MPR1.nii.gz filter=lfs diff=lfs merge=lfs -text
+fast_seg_p15_2.nii.gz filter=lfs diff=lfs merge=lfs -text
+flirt-out-p15_15_std.nii.gz filter=lfs diff=lfs merge=lfs -text
+fast_seg_p15_1.nii.gz filter=lfs diff=lfs merge=lfs -text
+flirt-out-15_3.nii.gz filter=lfs diff=lfs merge=lfs -text
+flirt-out-p18_15.nii.gz filter=lfs diff=lfs merge=lfs -text
+fast_seg_p7_1.nii.gz filter=lfs diff=lfs merge=lfs -text
+fast_seg_p7_2.nii.gz filter=lfs diff=lfs merge=lfs -text
+flirt-out-18.nii.gz filter=lfs diff=lfs merge=lfs -text
+flirt-out-p15_15.nii.gz filter=lfs diff=lfs merge=lfs -text
